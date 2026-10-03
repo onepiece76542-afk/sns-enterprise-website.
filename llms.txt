@@ -1,0 +1,18 @@
+# SNS Enterprise
+
+> SNS Enterprise is a distribution company based in Kathmandu, Nepal, supplying grocery and household products to retailers and bulk buyers. Products made in Nepal are sourced directly from the manufacturer; international products are supplied through the distributor officially appointed by the original manufacturer.
+
+Address: Hariyo Pool, Kathmandu, Bagmati Province 44600, Nepal
+
+## Products
+Buldak noodles, cup noodles, Mentos, dish soap, washing machine detergent, Joyner juice, coconut drink, and similar grocery/household items. Full list: /products.html
+
+## Pages
+- Home: /index.html
+- Products: /products.html
+- About & Location: /about.html
+- FAQ: /faq.html
+- Contact / Order: /contact.html
+- Privacy Policy: /privacy-policy.html
+- Terms & Conditions: /terms-and-conditions.html
+- Cookie Policy: /cookie-policy.html
